@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "mysted.minecraftplus.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "menus.OptionsScreen"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
